@@ -1,0 +1,23 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\bin\Debug\Order Management.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\bin\Debug\Order Management.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\bin\Debug\Order Management.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\bin\Debug\MetroFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\obj\Debug\Order Management.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\obj\Debug\Order_Management.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\obj\Debug\Order_Management.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\obj\Debug\Order Management.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\obj\Debug\Order Management.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\obj\Debug\Order Management.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Order Management\Order Management\obj\Debug\Order_Management.UCCreate.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\obj\Debug\Order_Management.UCCustomers.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\obj\Debug\Order_Management.UCOrders.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\obj\Debug\Order_Management.UCHome.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\bin\Debug\SendGrid.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\bin\Debug\SendGrid.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Order Management\Order Management\bin\Debug\SendGrid.xml
